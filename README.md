@@ -27,6 +27,10 @@
       </a>
   </h5>
     <h5>
+     <a href="https://github.com/alexandrainst/danlp/blob/master/docs/docs/tasks/dependency.md">
+      Dependency Parsing
+   	 </a>
+      <span> | </span>
    	 <a href="https://github.com/alexandrainst/danlp/blob/master/docs/docs/datasets.md">
       Datasets
    	 </a>
